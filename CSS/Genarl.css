@@ -1,0 +1,21 @@
+/*Genarl section style's*/
+
+body {
+  font-family: 'Roboto', sans-serif, Arial;
+
+  height: 1100px;
+  padding: 0;
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 95px;
+  padding-right: 25px;
+  background-color: rgb(236, 236, 236);
+}
+
+p {
+  margin: 0;
+}
+
+h4 {
+  margin: 0;
+}
